@@ -7,8 +7,6 @@ Use visual analytics to derive insights from car insurance claims data. The end-
 
 Car claims for insurance.git.xlsx
 
-Data cleaning was performed in excel. 
-
 ## Final Visualisation
 
 Tableau Public Link - https://public.tableau.com/profile/ruchi5197#!/vizhome/CarInsuranceClaimsInsights_15722868135180/Story1?publish=yes  
